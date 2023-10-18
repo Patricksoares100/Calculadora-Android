@@ -1,6 +1,6 @@
 # Calculadora-Android
 
-Aplicação mobile com os conceitos básicos de introdição ao Software Android Studio
+Aplicação mobile com os conceitos básicos de introdução ao Software Android Studio
 
 Calculadora Android
 
